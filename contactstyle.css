@@ -1,0 +1,36 @@
+table{
+    border: 1px solid black;
+    width:100%;
+    border-collapse: collapse;
+}
+a{
+    text-decoration: none;
+}
+#menu{
+    font-family: cursive;
+    text-align: center;
+    color: antiquewhite;
+    background-color: azure;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 24px;
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-top: hidden;
+    border-bottom: hidden;
+    
+}
+h2{
+    text-align: center;
+}
+#menu td:hover{
+     background-color: cadetblue;
+    color: orange;
+}
+body{
+    background-color: antiquewhite;
+}
+#xx td{
+    width:25%;
+    text-align: center;
+}

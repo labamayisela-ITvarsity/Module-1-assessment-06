@@ -1,0 +1,80 @@
+table{
+    border: 1px solid black;
+    width:100%;
+    border-collapse: collapse;
+    
+}
+td{
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-left-style: hidden;
+    border-right-style: hidden;
+}
+.products img{
+    height: 30%;
+}
+.products img:hover{
+    height: 35%;
+}
+#list{
+    background-color: darkcyan;
+}
+#menu{
+    font-family: cursive;
+    text-align: center;
+    color: antiquewhite;
+    background-color: azure;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 24px;
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-top: hidden;
+    border-bottom: hidden;
+    
+}
+#menu a:hover{
+    color:antiquewhite;
+}
+a{
+    text-decoration: none;
+    
+}
+#top{
+    background-color: darkturquoise;
+    color: dimgray;
+    font-family: broadway;
+    text-align: center;
+    font-size: 48px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+#top:hover{
+    color: aliceblue;
+}
+#menu td:hover{
+     background-color: cadetblue;
+    color: orange;
+}
+
+#space{
+    width: 550px;
+    text-align: center;
+    color: gainsboro;
+}
+#space:hover{
+    color:darkcyan;
+    font-size: 24px;
+}
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+    color:white;
+    padding-bottom: 20px;
+}
+h2{
+    color:darkcyan;
+}
+h2:hover{
+    color: crimson;
+}
